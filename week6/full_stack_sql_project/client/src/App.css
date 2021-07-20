@@ -1,0 +1,17 @@
+html {
+  background: #003566;
+  font-family: 'Pangolin', cursive;
+}
+.title:hover{
+  font-size: 80px;
+  color: whitesmoke;
+  text-shadow: 2px 2px 2px #ad2831;
+  text-decoration: underline;
+}
+.title {
+  text-align: center;
+  font-size: 65px;
+  color: whitesmoke;
+  text-shadow: 2px 2px 2px #ad2831;
+  text-decoration: underline;
+}
